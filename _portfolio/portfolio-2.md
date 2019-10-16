@@ -1,6 +1,6 @@
 ---
-title: "WebDev: Building an awesome website"
-excerpt: "A project where you get to build a fun website using the MEANS stack (Angular, MangoDB, etc.)"
+title: "WebDev: Building a Dynamic Website"
+excerpt: "A project where you get to build a dynamic website with us, using the MEANS stack (Angular, MongoDB, etc.)"
 collection: portfolio
 ---
 

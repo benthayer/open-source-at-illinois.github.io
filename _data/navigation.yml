@@ -9,8 +9,5 @@ main:
   - title: "Projects"
     url: /portfolio/
     
-  - title: "Contact Us"
-    url: /contact/
-    
   - title: "Guide"
     url: /markdown/

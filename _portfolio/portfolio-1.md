@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "IoT Lock Project <br/><img src='/images/500x300.png'>"
+title: "IoT Lock Project"
+excerpt: "A cool new way to lock things and learn about IoT and API programming"
 collection: portfolio
 ---
 

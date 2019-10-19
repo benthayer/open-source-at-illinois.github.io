@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open-Source @ Illinois / Static Website"
+title                    : "Open-Source @ Illinois"
 title_separator          : "-"
 name                     : &name "Open-Source @ Illinois"
 description              : &description "We are a student organization at the University of Illinois, Urbana-Champaign, dedicated to participating in the open-source community."
